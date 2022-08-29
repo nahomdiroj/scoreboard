@@ -1,8 +1,10 @@
 
 let x = document.getElementById("hom")
 let y= document.getElementById("gue")
+let z= document.getElementById("fou")
 let str =0
 let stry =0
+let f=0
 console.log(x)
 
 function chk(){
@@ -14,7 +16,20 @@ function chk(){
             x.style.color="white"
         }
     }
-
+    function fou(){
+        f+=1
+        z.innerHTML=f
+        
+    }
+    
+function new1(){
+    x.innerHTML=0
+    y.innerHTML=0
+    z.innerHTML=0
+    y.style.color="white"
+    x.style.color="white"
+    
+}
 
 function add1x(){
     str+=1

@@ -1,4 +1,5 @@
 body {
+    background-color: #1B244A;
    
    
 
@@ -28,7 +29,6 @@ color: #EEEEEE;
 }
 .time{
     /* board-title-home */
-
 
 position: absolute;
 width: 149px;
@@ -109,6 +109,11 @@ top: 278px;
     width: 575px;
     height: 385px;
     align-items: center;
+
+    margin: auto;
+
+    border: 3px solid rgb(187, 193, 201);
+    padding: 20px;
     
     background: #1B244A;
 }
