@@ -1,0 +1,114 @@
+body {
+   
+   
+
+}
+.nav{
+    align-content: center;
+}
+
+.home{
+    
+position: absolute;
+width: 149px;
+height: 36px;
+left: 22px;
+top: 68px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+color: #EEEEEE;
+
+}
+.time{
+    /* board-title-home */
+
+
+position: absolute;
+width: 149px;
+height: 36px;
+left: 205px;
+top: 72px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.guest{
+    position: absolute;
+width: 149px;
+height: 36px;
+left: 398px;
+top: 70px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.lower{
+    position: absolute;
+width: 79px;
+height: 60px;
+left: 250px;
+top: 268px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+letter-spacing: -0.022em;
+
+color: #FFFFFF;
+
+}
+.btn1{
+    position: absolute;
+width: 155px;
+height: 45px;
+left: 31px;
+top: 271px;
+
+
+}
+.btn2{
+    
+position: absolute;
+width: 155px;
+height: 45px;
+left: 392px;
+top: 278px;
+
+}
+.container {
+    position: relative;
+    width: 575px;
+    height: 385px;
+    align-items: center;
+    
+    background: #1B244A;
+}
